@@ -3,8 +3,8 @@
 I’m a Computer Science graduate with hands-on experience in building
 **cloud-native, AI-driven, and DevOps-focused systems**.
 
-My work focuses on designing **end-to-end applications** — from core logic
-to containerization, CI/CD pipelines, and deployment — with an emphasis on
+My work focuses on designing **end-to-end applications** - from core logic
+to containerization, CI/CD pipelines, and deployment - with an emphasis on
 **reliability, security, and clean engineering practices**.
 
 ---
