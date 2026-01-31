@@ -1,10 +1,11 @@
 # Hi, I’m Umarani 👋
 
-I’m a Computer Science graduate with hands-on experience in
-**GenAI systems, cloud-native development, CI/CD pipelines, and container orchestration**.
+I’m a Computer Science graduate with hands-on experience in building
+**cloud-native, AI-driven, and DevOps-focused systems**.
 
-I enjoy building end-to-end systems — from application logic to deployment —
-with a strong focus on **clean design, automation, and security best practices**.
+My work focuses on designing **end-to-end applications** — from core logic
+to containerization, CI/CD pipelines, and deployment — with an emphasis on
+**reliability, security, and clean engineering practices**.
 
 ---
 
