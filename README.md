@@ -9,14 +9,15 @@ to containerization, CI/CD pipelines, and deployment — with an emphasis on
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Technical Skills
 
-- **Languages:** Python, Bash
+- **Programming:** Python, Bash
 - **AI / GenAI:** LLMs, Prompt Engineering, LLM Evaluation
-- **Cloud:** AWS (Bedrock), IAM
+- **Cloud:** AWS (Bedrock, IAM)
 - **DevOps:** Docker, GitHub Actions, CI/CD
 - **Orchestration:** Kubernetes
-- **Security:** Cryptography fundamentals (RSA)
+- **Security:** Cryptography fundamentals (RSA), secure key handling
+
 
 ---
 
