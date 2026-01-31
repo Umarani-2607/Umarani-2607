@@ -23,16 +23,20 @@ to containerization, CI/CD pipelines, and deployment — with an emphasis on
 
 ## 🚀 Featured Projects
 
-### 🔹 GenAI Conversational Agent  
+### 🔹 GenAI Conversational Agent
+End-to-end GenAI agent with AWS Bedrock, Docker, and CI/CD.  
 👉 https://github.com/Umarani-2607/genai-chatbot
 
-### 🔹 CI/CD Web Application  
+### 🔹 CI/CD Web Application
+Containerized web app with GitHub Actions, Kubernetes, and deployment workflows.  
 👉 https://github.com/Umarani-2607/cicd-web-app
 
-### 🔹 LLM Evaluation Framework  
+### 🔹 LLM Evaluation Framework
+Framework for evaluating and scoring LLM responses with clear metrics.  
 👉 https://github.com/Umarani-2607/llm-evaluation
 
-### 🔹 Image Encryption & Decryption (RSA)  
+### 🔹 Image Encryption & Decryption (RSA)
+Educational cryptography project demonstrating secure key management.  
 👉 https://github.com/Umarani-2607/image-encryption-rsa
 
 ---
