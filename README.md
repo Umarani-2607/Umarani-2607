@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Umarani 👋
 
-<!--
-**Umarani-2607/Umarani-2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate with hands-on experience in
+**GenAI systems, cloud-native development, CI/CD pipelines, and container orchestration**.
 
-Here are some ideas to get you started:
+I enjoy building end-to-end systems — from application logic to deployment —
+with a strong focus on **clean design, automation, and security best practices**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, Bash
+- **AI / GenAI:** LLMs, Prompt Engineering, LLM Evaluation
+- **Cloud:** AWS (Bedrock), IAM
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Orchestration:** Kubernetes
+- **Security:** Cryptography fundamentals (RSA)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 GenAI Conversational Agent  
+👉 https://github.com/Umarani-2607/genai-chatbot
+
+### 🔹 CI/CD Web Application  
+👉 https://github.com/Umarani-2607/cicd-web-app
+
+### 🔹 LLM Evaluation Framework  
+👉 https://github.com/Umarani-2607/llm-evaluation
+
+### 🔹 Image Encryption & Decryption (RSA)  
+👉 https://github.com/Umarani-2607/image-encryption-rsa
+
+---
+
+## 🧭 Learning Focus & Progression
+
+- Core DevOps: Docker, CI/CD, Kubernetes
+- Cloud & GenAI: AWS Bedrock, LLM-based systems
+- AI Quality: LLM evaluation and testing
+- Security: Cryptography fundamentals
