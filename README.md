@@ -8,6 +8,13 @@ to containerization, CI/CD pipelines, and deployment - with an emphasis on
 **reliability, security, and clean engineering practices**.
 
 ---
+## 🌱 Currently Learning
+
+- Infrastructure as Code (Terraform)
+- Advanced Kubernetes workflows
+- Cloud architecture best practices on AWS
+- Improving CI/CD pipelines with testing and quality gates
+---
 
 ## 🔧 Technical Skills
 
